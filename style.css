@@ -1,0 +1,16 @@
+h1 {color: blue; font-size: 20px}
+
+.test {
+
+	font-size: 15px
+}
+
+.splash {
+	background-image: url(bridge.jpg);
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center
+}
+body > header > nav > ul {}
