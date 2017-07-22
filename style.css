@@ -6,7 +6,7 @@ h1 {color: blue; font-size: 20px}
 }
 
 .splash {
-	background-image: url(bridge.jpg);
+	background-image: url(Bridge.jpg);
     background-size: cover;
     height: 300px;
     display: flex;
